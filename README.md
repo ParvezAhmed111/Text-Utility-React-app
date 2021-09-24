@@ -1,5 +1,4 @@
-# Click on the link below to use the app
-https://parvezahmed111.github.io/Text-Utility-React-app/
+# <a href="https://parvezahmed111.github.io/Text-Utility-React-app/">Click here</a> to use the app
 
 
 
